@@ -1,0 +1,16 @@
+{
+	"Setting Descriptions": {
+		"invite": "Server to join, leave as null without double quotes, if you do not want to join a server",
+		"websocket": "Should it establish a connection with the websocket after account generation (Helps not to get email / phone locked), disable if you just use to raid server real-time.",
+		"hcaptcha_accessibility_token": "Token for Captcha Bypass, get the hc-accessibility cookie @ https://www.hcaptcha.com/accessibility and put the content in the hcaptcha_accessibility_token property",
+		"threads": "Max concurrent registrations running at once. Actual threads are determined by your proxies speed / quality"
+	},
+	"invite": "ecorp",
+	"websocket": false,
+	"type": "socks4",
+	"hcaptcha_accessibility_token": "NF27BB4Ac70rlUNWQ2rbmGZc5oMS65j9tWtBcJkotUedjrgGck4usYgDtqCnrpPiFn3uWnxF+/9y1JKNaYopXMFvRGWOuuYcptva7diKc+vZcSjtt2o98QRF5Xo0ijD9NiHQsN0thRuMDOX/WAkwpQ1EG0pTlfbhlrxqlwfnzKgdAplceXkNXp54Iq+k4Nr2oJ7U3SjMupj5d8LyXHZEu0iHbeFYsgG+pLXF82FGNoIY7p2mfcWQWo/cNTPGUIZSQaGjrkmwHjJGgtU84lm53qiDzfUraf52yRwRaaSNZeAIqoMrOqaUK78Lk25kd270hiI7tXXAvTTygeSSdAt4XbTCHx39WZaZdduQ2nAusMKPqX63B5H4Tyaw+OFFEvg6H0wFpzEIzUCB4kzzntLumZt5x7dsrz3+jIx7yk5prmc0QPctE477Rze4T0NT6O4YD65Nv4/r9Hmho7ioGr9PEh8e+bXvHfYZI2IYNv3sf6LMLNc85Vgzbx/4cfiIPjAUt/SLlQ==rxtGcEie2EXdhiVU",
+	"threads": 555,
+	"max": 10,
+	"backup_servers_token": true,
+	"backup_id": "876838271571886141"
+}

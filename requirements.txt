@@ -1,0 +1,1 @@
+pip install brotli pysocks requests pywin32 selenium faker websocket_client redis colorama pytweening imagehash
